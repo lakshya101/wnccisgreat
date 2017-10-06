@@ -1,2 +1,1 @@
-Hey ! This is my first file;
-another line !
+My first line !
